@@ -10,11 +10,11 @@
   </p>
 
   <p align="center">
-    <a href="https://edsonluciano.com" target="_blank">
-      <img src="https://img.shields.io/badge/Website-edsonluciano.com-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <a href="https://stivetec.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-stivetec.com-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
     </a>
-    <a href="mailto:contato@edsonluciano.com">
-      <img src="https://img.shields.io/badge/E--mail-contato%40edsonluciano.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:edsonlucianoms@gmail.com">
+      <img src="https://img.shields.io/badge/E--mail-edsonlucianoms%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/edsonmsantos">
       <img src="https://img.shields.io/badge/GitHub-edsonmsantos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -95,5 +95,5 @@ Sou desenvolvedor de software focado na concepção e entrega de aplicações co
 
 <div align="center">
   <p>Construindo software de qualidade e soluções eficientes 🚀</p>
-  <sub>© Edson Santos • <a href="https://edsonluciano.com">edsonluciano.com</a></sub>
+  <sub>© Edson Santos • <a href="https://stivetec.com">stivetec.com</a></sub>
 </div>
