@@ -2,7 +2,7 @@
 
   <!-- Header Typing Animation -->
   <a href="https://github.com/edsonmsantos">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Edson+Santos+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%26+Software+Architect;Laravel%2C+React%2C+Go%2C+Python%2C+Delphi+%26+Lazarus;SaaS%2C+Desktop%2C+Automa%C3%A7%C3%B5es+%26+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Edson+Santos+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%26+Software+Architect;Laravel%2C+React%2C+Go%2C+Python%2C+Delphi+%26+Lazarus;IA%2C+Mem%C3%B3ria+Compartilhada+(MCP)+%26+RAG" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -33,7 +33,8 @@ Sou desenvolvedor de software focado na concepção e entrega de aplicações co
 * ⚡ **Backends & Microsserviços de Alta Performance:** Criação de APIs resilientes e microsserviços em **Go** e **Python (FastAPI)** para mensageria em tempo real (WebSockets, WebRTC, bots e integrações).
 * 🖥️ **Desktop & Integração de Sistemas:** Sólida experiência no desenvolvimento de sistemas desktop robustos, automação comercial e integrações com **Delphi** e **Lazarus (Object Pascal)**.
 * 📱 **Mobile:** Criação de aplicativos nativos e híbridos para Android com **Kotlin / Jetpack Compose** e **React Native**.
-* 🤖 **Inteligência Artificial & Agentes Autônomos:** Desenvolvimento de agentes de código com tool calling e aprovação contínua, servidores customizados no protocolo **MCP (Model Context Protocol)**, arquiteturas **RAG (Retrieval-Augmented Generation)** com busca semântica vetorial, embeddings locais (PyTorch/CUDA) e integrações avançadas com **Gemini, OpenAI, Claude e DeepSeek**.
+* 🧠 **Memória Compartilhada entre IAs & Segundo Cérebro (`LLM Wiki`):** Arquiteto e criador de um sistema de memória persistente compartilhada para múltiplos agentes e LLMs (Claude, Gemini, Cursor, etc.). Utiliza o protocolo **MCP com capacidade bidirecional e write-back** (as IAs consultam histórico de projetos e gravam decisões de volta no vault), pipeline de **RAG Híbrido de Alta Precisão (65% similaridade de cosseno + 35% BM25)**, embeddings locais com aceleração por GPU (`multilingual-e5-large`) e sincronização multi-máquina via backend Laravel/MySQL.
+* 🤖 **Agentes Autônomos & Tool Calling:** Desenvolvimento de ferramentas de linha de comando orientadas a agentes com checkpoints e fluxo de aprovação contínua (ex: `stivecli`), pontes MCP para interação com navegador (`browser-bridge`) e integrações com **Gemini, OpenAI, Claude e DeepSeek**.
 * 🌐 **Automação & Web Scraping Evasivo:** Criação de motores com **Playwright** desenhados com curvas de Bézier e comportamento orgânico para contorno de anti-bots modernos.
 
 ---
@@ -42,14 +43,16 @@ Sou desenvolvedor de software focado na concepção e entrega de aplicações co
 
 <div align="center">
 
-#### 🤖 Inteligência Artificial, Agentes & MCP
+#### 🤖 Inteligência Artificial, Agentes & Memória Compartilhada
+![Shared Memory](https://img.shields.io/badge/Shared_Memory_for_LLMs-7C3AED?style=for-the-badge&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5865F2?style=for-the-badge&logoColor=white)
+![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-Cosine_%2B_BM25-059669?style=for-the-badge&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-Embeddings-10B981?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlebard&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Semantic_Search-10B981?style=for-the-badge&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 #### Backend, Desktop & Linguagens
