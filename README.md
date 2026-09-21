@@ -2,7 +2,7 @@
 
   <!-- Header Typing Animation -->
   <a href="https://github.com/edsonmsantos">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Edson+Santos+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%26+Software+Architect;Especialista+em+Laravel%2C+React%2C+Go+%26+Python;Criando+Solu%C3%A7%C3%B5es+SaaS%2C+Automa%C3%A7%C3%B5es+%26+IA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+Edson+Santos+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%26+Software+Architect;Laravel%2C+React%2C+Go%2C+Python%2C+Delphi+%26+Lazarus;SaaS%2C+Desktop%2C+Automa%C3%A7%C3%B5es+%26+IA" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -31,6 +31,7 @@ Sou desenvolvedor de software focado na concepção e entrega de aplicações co
 
 * 🚀 **SaaS & Plataformas Web:** Desenvolvimento de aplicações multi-tenant, painéis administrativos e portais completos utilizando **PHP (Laravel)**, **React**, **Inertia.js**, **TypeScript** e **Tailwind CSS**.
 * ⚡ **Backends & Microsserviços de Alta Performance:** Criação de APIs resilientes e microsserviços em **Go** e **Python (FastAPI)** para mensageria em tempo real (WebSockets, WebRTC, bots e integrações).
+* 🖥️ **Desktop & Integração de Sistemas:** Sólida experiência no desenvolvimento de sistemas desktop robustos, automação comercial e integrações com **Delphi** e **Lazarus (Object Pascal)**.
 * 📱 **Mobile:** Criação de aplicativos nativos e híbridos para Android com **Kotlin / Jetpack Compose** e **React Native**.
 * 🤖 **Automação, Dados & IA:** Exploração e desenvolvimento com **Model Context Protocol (MCP)**, motores de automação e web scraping com evasão avançada (**Playwright**), sistemas de busca semântica local (RAG) e bots de integração.
 
@@ -40,10 +41,13 @@ Sou desenvolvedor de software focado na concepção e entrega de aplicações co
 
 <div align="center">
 
-#### Backend & Linguagens
+#### Backend, Desktop & Linguagens
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
+![Lazarus](https://img.shields.io/badge/Lazarus-00599C?style=for-the-badge&logoColor=white)
+![Pascal](https://img.shields.io/badge/Object_Pascal-003366?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,9 +59,11 @@ Sou desenvolvedor de software focado na concepção e entrega de aplicações co
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 
-#### Infra, Dados & Automação
+#### Bancos de Dados & Infraestrutura
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-FF5722?style=for-the-badge&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
