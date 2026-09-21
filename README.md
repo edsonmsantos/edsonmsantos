@@ -33,13 +33,24 @@ Sou desenvolvedor de software focado na concepção e entrega de aplicações co
 * ⚡ **Backends & Microsserviços de Alta Performance:** Criação de APIs resilientes e microsserviços em **Go** e **Python (FastAPI)** para mensageria em tempo real (WebSockets, WebRTC, bots e integrações).
 * 🖥️ **Desktop & Integração de Sistemas:** Sólida experiência no desenvolvimento de sistemas desktop robustos, automação comercial e integrações com **Delphi** e **Lazarus (Object Pascal)**.
 * 📱 **Mobile:** Criação de aplicativos nativos e híbridos para Android com **Kotlin / Jetpack Compose** e **React Native**.
-* 🤖 **Automação, Dados & IA:** Exploração e desenvolvimento com **Model Context Protocol (MCP)**, motores de automação e web scraping com evasão avançada (**Playwright**), sistemas de busca semântica local (RAG) e bots de integração.
+* 🤖 **Inteligência Artificial & Agentes Autônomos:** Desenvolvimento de agentes de código com tool calling e aprovação contínua, servidores customizados no protocolo **MCP (Model Context Protocol)**, arquiteturas **RAG (Retrieval-Augmented Generation)** com busca semântica vetorial, embeddings locais (PyTorch/CUDA) e integrações avançadas com **Gemini, OpenAI, Claude e DeepSeek**.
+* 🌐 **Automação & Web Scraping Evasivo:** Criação de motores com **Playwright** desenhados com curvas de Bézier e comportamento orgânico para contorno de anti-bots modernos.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
+
+#### 🤖 Inteligência Artificial, Agentes & MCP
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5865F2?style=for-the-badge&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlebard&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0066FF?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Semantic_Search-10B981?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 #### Backend, Desktop & Linguagens
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
